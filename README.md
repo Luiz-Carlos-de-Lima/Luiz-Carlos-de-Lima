@@ -36,6 +36,7 @@ Sou desenvolvedor com experiência em aplicações **Flutter**, **Vue.js**, **Nu
 - 🧪 Gosto de analisar e fazer melhorias constantes no software com foco em qualidade e escalabilidade.
 - 🎨 Curto criar interfaces modernas e intuitivas no **Figma**, tanto UX quanto UI.
 
+---
 
 ### 📫 Contato
 
@@ -43,4 +44,4 @@ Sou desenvolvedor com experiência em aplicações **Flutter**, **Vue.js**, **Nu
 - 💼 LinkedIn: **https://www.linkedin.com/in/luizcarlos199lcdl/**
 - 📱 WhatsApp: **(41) 98701-9820**
 
----
+
